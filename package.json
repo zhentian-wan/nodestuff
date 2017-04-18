@@ -1,0 +1,15 @@
+{
+  "name": "toolsets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "nightmare": "cd nightmare-demo && node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nightmare": "2.10.0"
+  }
+}
